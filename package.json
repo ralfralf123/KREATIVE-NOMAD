@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@fullpage/react-fullpage": "^0.1.39",
+    "@react-spring/parallax": "^9.7.2",
+    "@types/react-router-dom": "^5.3.3",
+    "fullpage.js": "^4.0.19",
+    "react-dom": "^18.2.0",
+    "react-scroll": "^1.8.9",
+    "react-scroll-snap": "^1.0.0",
+    "react-scrollama": "^2.3.2",
+    "react-use-scroll-snap": "^0.0.4",
+    "scroll-snap": "^4.0.3",
+    "tweezer.js": "^1.5.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.6"
+  }
+}

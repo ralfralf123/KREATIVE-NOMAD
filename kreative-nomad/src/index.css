@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&family=Figtree:wght@400;700&family=Manrope&display=swap');
+
+html, body {
+  margin: 0;
+  scroll-behavior: smooth;
+  scrollbar-width: none;
+}
+
+body::-webkit-scrollbar{
+  display: none;
+}
+
+.container{
+  --ms--overflow-style: none;
+  scrollbar-width: none;
+  &::-webkit-scrollbar{
+    display: none;
+  }
+}
